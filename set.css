@@ -1,0 +1,33 @@
+h1{
+ text-align: center;
+}
+
+p{
+ text-align: center;
+ color: whitesmoke;
+}
+
+h3{
+ text-align: center;
+ color: whitesmoke;
+}
+
+h4{
+ margin-left: 700px;
+ color: whitesmoke;
+}
+
+button{
+ background-color:lightblue;
+ color: white;
+ border-radius: 5px;
+margin-top: 5px;
+padding: 10px 15px;
+}
+
+.flex-container button{
+background-color: grey;
+color: white;
+text-align: center;
+padding: 5px 150px; 
+}
